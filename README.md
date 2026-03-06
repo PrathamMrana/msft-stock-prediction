@@ -1,4 +1,5 @@
 <h1 align="center">📈 MSFT Stock Price Forecasting: A Deep Learning Approach</h1>
+<p align="center"><em>An advanced, anti-overfitting Long Short-Term Memory (LSTM) neural network engineered to forecast Microsoft (MSFT) stock prices using pure, chronological market regime data.</em></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -42,7 +43,7 @@ The dataset was sourced dynamically via the `yfinance` API, covering MSFT's dail
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/msft-stock-prediction.git
+git clone https://github.com/PrathamMrana/msft-stock-prediction.git
 cd msft-stock-prediction
 ```
 
@@ -59,8 +60,7 @@ jupyter notebook msft_stock_prediction.ipynb
 ```
 
 ## 📬 Contact & Connect
-Designed and developed by **[Your Name]**.  
+Designed and developed by **Pratham Rana**.  
 I am actively seeking roles in **Data Science, Machine Learning Engineering, and Quantitative Research**. Let's connect!
 
-- [**LinkedIn**](https://linkedin.com/in/yourprofile)
-- [**Portfolio / Website**](https://yourwebsite.com)
+- [**GitHub**](https://github.com/PrathamMrana)
