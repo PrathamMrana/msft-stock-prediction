@@ -63,4 +63,4 @@ jupyter notebook msft_stock_prediction.ipynb
 Designed and developed by **Pratham Rana**.  
 I am actively seeking roles in **Data Science, Machine Learning Engineering, and Quantitative Research**. Let's connect!
 
-- [**GitHub**](https://github.com/PrathamMrana)
+- [**LinkedIn**](https://www.linkedin.com/in/pratham-rana-259355283/)
